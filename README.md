@@ -1,1 +1,1 @@
-# HTML-SampleResume
+# html-SampleResume
